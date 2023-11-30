@@ -21,7 +21,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>vn.arcturus.soma</groupId>
   <artifactId>arcturus-soma-build</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0-RELEASE</version>
   <packaging>pom</packaging>
   <name>Arcturus :: Soma :: Build</name>
   <description>Common SDK parent pom, managing plugins and dependencies for Arcturus SDK modules.
@@ -98,7 +98,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <resource.delimiter>@</resource.delimiter>
-    <arcturus-soma-bom.version>1.0.0-SNAPSHOT</arcturus-soma-bom.version>
+    <arcturus-soma-bom.version>1.0.0-RELEASE</arcturus-soma-bom.version>
     <puppycrawl-tools-checkstyle.version>10.12.4</puppycrawl-tools-checkstyle.version>
     <pitest-maven.version>1.15.3</pitest-maven.version>
     <asciidoctorj.version>2.5.10</asciidoctorj.version>

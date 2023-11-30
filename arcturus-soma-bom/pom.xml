@@ -21,7 +21,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>vn.arcturus.soma</groupId>
   <artifactId>arcturus-soma-bom</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0-RELEASE</version>
   <packaging>pom</packaging>
   <name>Arcturus :: Soma :: BOM</name>
   <description>An internal BOM for use with Arcturus projects. Use as a BOM or by inheriting from
@@ -59,7 +59,7 @@
     <maven.build.timestamp.format>yyyyMMddHHmmss</maven.build.timestamp.format>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <arcturus-soma.version>1.0.0-SNAPSHOT</arcturus-soma.version>
+    <arcturus-soma.version>1.0.0-RELEASE</arcturus-soma.version>
     <lombok.version>1.18.30</lombok.version>
     <logback.version>1.4.11</logback.version>
     <flatten-maven-plugin.version>1.5.0</flatten-maven-plugin.version>
