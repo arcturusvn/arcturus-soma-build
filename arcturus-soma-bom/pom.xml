@@ -24,7 +24,7 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Arcturus :: Soma :: BOM</name>
-  <description>An internal BOM for use with Landstock projects. Use as a BOM or by inheriting from
+  <description>An internal BOM for use with Arcturus projects. Use as a BOM or by inheriting from
     the arcturus-soma-build parent.
   </description>
   <distributionManagement>
